@@ -13,3 +13,8 @@ var location = 'Dhaka';
 // boolean
 var isHot = false;
 var isRich = true;
+
+
+var UserHomeAddress = "Dhaka, Bangladesh"; // pascal case
+var user_home_address = "Dhaka, Bangladesh"; //snake case
+var userHomeAddress = "Dhaka, Bangladesh"; //camel case
