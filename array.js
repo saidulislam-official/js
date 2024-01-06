@@ -6,6 +6,21 @@ var tourFee = [5000, 6000, 7000, 8000];
 
 var friends = ['Rahim', 'Karim', 'Jabbar', 'Barkat'];
 
-console.log(tourPlaces);
+// console.log(tourPlaces);
 
-console.log(friends.length);
+// console.log(friends.length);
+
+
+// 1. Get element value by index
+var element = numbers[5];
+// console.log(element);
+
+// 2. Set element value by index
+numbers[5] = 55;
+// console.log(numbers);
+
+// 3. Find index number by element
+var positionIndex = numbers.indexOf(8);
+console.log(positionIndex);
+
+
